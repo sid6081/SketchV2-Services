@@ -1,0 +1,26 @@
+{
+  "name": "sketchv2api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.19.1",
+    "moment-timezone": "^0.5.14",
+    "node-cron": "^1.2.1",
+    "node-schedule": "^1.2.5",
+    "promise": "^8.0.1",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "decache": "^4.3.0"
+  }
+}
